@@ -2,6 +2,6 @@
 
 ### Oii, eu sou a bibi <3!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Gabriella Silva&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Sou estudante de DS e aprendo de tudo um pouco <br/><3<3</p>
